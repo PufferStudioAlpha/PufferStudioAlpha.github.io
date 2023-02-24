@@ -1,3 +1,6 @@
+facebook.com, 508554531205281, DIRECT, c3e20eee3f780d68
+facebook.com, 508554531205281, RESELLER, c3e20eee3f780d68
+
 ironsrc.com, 441093, Direct
 adbility-media.com, 187, RESELLER
 advertising.com, 8693, RESELLER
