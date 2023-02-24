@@ -677,6 +677,10 @@ yandex.com, 95746987, RESELLER
 yandex.com, 97539269, RESELLER
 yeahmobi.com, 5135195, RESELLER
 
+pangleglobal.com, 5008428, DIRECT
+
+pubmatic.com, 161490, RESELLER, 5d62403b186f2ace
+
 mintegral.com, 34688, DIRECT, 0aeed750c80d6423
 
 pokkt.com, 7139, RESELLER, c45702d9311e25fd
