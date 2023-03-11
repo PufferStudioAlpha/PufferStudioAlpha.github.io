@@ -1,11 +1,12 @@
 
 # Puffer Studios
-We are a hyper-casual game development team, if you have any questions, please contact us through this email.
+![](Banners/PufferLogo.png)
+We are a hyper-casual game development team, if you have any questions, please contact us through this email [luwenwan@puffergames.com](luwenwan@puffergames.com).
 
-And there are our games links：
 
-Google Play：https://play.google.com/store/apps/dev?id=9041945518445814940
+# Our store links：
 
-App Store：https://apps.apple.com/us/app/id1638101218?l=en-us&see-all=developer-other-apps
+* Google Play：[https://play.google.com/store/apps/dev?id=9041945518445814940](https://play.google.com/store/apps/dev?id=9041945518445814940)
 
-xiaguoxin03@126.com
+* App Store：[https://apps.apple.com/us/app/id1638101218?l=en-us&see-all=developer-other-apps](https://apps.apple.com/us/app/id1638101218?l=en-us&see-all=developer-other-apps)
+
