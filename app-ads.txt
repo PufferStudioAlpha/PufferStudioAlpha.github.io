@@ -2,6 +2,27 @@ facebook.com, 2094086764222756, RESELLER, c3e20eee3f780d68
 facebook.com, 508554531205281, DIRECT, c3e20eee3f780d68
 facebook.com, 508554531205281, RESELLER, c3e20eee3f780d68
 
+appnexus.com, 11924, RESELLER, f5ab79cb980f11d1
+contextweb.com, 562944, RESELLER, 89ff185a4c4e857c
+google.com, pub-1981230854723058, RESELLER
+google.com, pub-1981230854723058, RESELLER, f08c47fec0942fa0
+google.com, pub-9963603837519638, RESELLER
+google.com, pub-9963603837519638, RESELLER, f08c47fec0942fa0
+inmobi.com, 7847fe1f9ac54b4abe609cde4011243b, RESELLER, 83e75a7ae333ca9d
+pubmatic.com, 157559, RESELLER, 5d62403b186f2ace
+pubmatic.com, 163319, RESELLER, 5d62403b186f2ace
+pubmatic.com, 163420, RESELLER, 5d62403b186f2ace
+pubnative.net, 1007501, RESELLER, d641df8625486a7b
+pubnative.net, 1008770, RESELLER, d641df8625486a7b
+rubiconproject.com, 12556, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 18202, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 18364, RESELLER, 5d62403b186f2ace
+rubiconproject.com, 24400, RESELLER, 0bfd66d529a55807
+thebrave.io, 1234634, RESELLER, c25b2154543746ac
+triplelift.com, 13883, RESELLER, 6c33edb13117fd86
+video.unrulymedia.com, 2464975885, RESELLER
+Xapads.com, 155860, RESELLER
+
 ironsrc.com, 441093, Direct
 adbility-media.com, 187, RESELLER
 advertising.com, 8693, RESELLER
