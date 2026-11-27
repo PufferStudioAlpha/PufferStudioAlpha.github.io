@@ -6103,8 +6103,7 @@ rubiconproject.com, 26694, RESELLER, 0bfd66d529a55807
 smartadserver.com, 5276, RESELLER, 060d053dcf45cbf3
 pubmatic.com, 166268, RESELLER, 5d62403b186f2ace
 krushmedia.com, AJxF6R39a9M6CaTvK, RESELLER
-k
-rushmedia.com, AJxF6R658a9M6CaTvK, RESELLER
+krushmedia.com, AJxF6R658a9M6CaTvK, RESELLER
 conversantmedia.com, 100867, RESELLER, 03113cd04947736d
 adyoulike.com, 9b11b945466734daf080ea52ac771ff3, RESELLER, 4ad745ead2958bf7
 conversantmedia.com, 100876, RESELLER, 03113cd04947736d
@@ -11844,8 +11843,7 @@ sharethrough.com,bXzzb1bR,RESELLER,d53b998a7bd4ecd2
 sharethrough.com,wRgOcZeV,RESELLER,d53b998a7bd4ecd2
 showheroes.com,6031,RESELLER
 showheroes.com,6037,RESELLER
-silvermob.
-com,419,RESELLER
+silvermob.com,419,RESELLER
 singularads.com,548745,RESELLER
 smaato.com,1100044045,RESELLER,07bcf65f187117b4
 smaato.com,1100052485,RESELLER,07bcf65f187117b4
@@ -17533,8 +17531,7 @@ zmaticoo.com, 5135082, RESELLER
 rubiconproject.com, 24400, RESELLER, 0bfd66d529a55807
 loopme.com, 9724, RESELLER, 6c8d5f95897a5a3b
 admanmedia.com, 2063, RESELLER
-smaato.com, 1100053415, RESELLER
-, 07bcf65f187117b4
+smaato.com, 1100053415, RESELLER, 07bcf65f187117b4
 pubmatic.com, 156931, RESELLER, 5d62403b186f2ace
 algorix.co, 54190, RESELLER, 5b394c12fea27a1d
 bidmachine.io, 100, RESELLER
